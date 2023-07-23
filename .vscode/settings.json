@@ -1,0 +1,17 @@
+{
+    "files.autoSave": "onFocusChange",
+    // "go.buildOnSave": true,
+    // "go.lintOnSave": true,
+    // "go.vetOnSave": true,
+    "go.buildTags": "",
+    "go.buildFlags": [],
+    "go.lintFlags": [],
+    "go.vetFlags": [],
+    "go.coverOnSave": false,
+    "go.useCodeSnippetsOnFunctionSuggest": false,
+    "go.formatOnSave": true,
+    // "go.formatTool": "goreturns",
+    "go.goroot": "/Users/gutao/.gvm/gos/go1.19.4",    
+    "go.gopath": "/Users/gutao/.gvm/pkgsets/go1.19.4/global", 
+    "go.gocodeAutoBuild": true
+}
