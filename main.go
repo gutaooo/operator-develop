@@ -1,9 +1,9 @@
 package main
 
 import (
-	"operator.develop.com/gutaooo/client-go/pkg/sharedinformerexercise"
+	ingressexample "operator.develop.com/gutaooo/client-go/pkg/ingress_example"
 )
 
 func main() {
-	sharedinformerexercise.SharedinformerFun()
+	ingressexample.RunInMain()
 }

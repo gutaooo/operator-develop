@@ -8,10 +8,12 @@
     "go.lintFlags": [],
     "go.vetFlags": [],
     "go.coverOnSave": false,
-    "go.useCodeSnippetsOnFunctionSuggest": false,
+    // 开启会让vscode变慢
+    // "go.useCodeSnippetsOnFunctionSuggest": false,
     "go.formatOnSave": true,
     // "go.formatTool": "goreturns",
-    "go.goroot": "/Users/gutao/.gvm/gos/go1.19.4",    
-    "go.gopath": "/Users/gutao/.gvm/pkgsets/go1.19.4/global", 
-    "go.gocodeAutoBuild": true
+    // "go.goroot": "/Users/gutao/.gvm/gos/go1.19.4",    
+    // "go.gopath": "/Users/gutao/.gvm/pkgsets/go1.19.4/global", 
+    // 开启会让vscode变慢
+    // "go.gocodeAutoBuild": true
 }
